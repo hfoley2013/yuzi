@@ -30,14 +30,7 @@ export default function NavBar({ session }: { session: Session | null }) {
               height="30"
               className="mr-2 rounded-sm"
             ></Image>
-            <Image
-              src="/yuzi_lowercase_logo_green_large.png"
-              alt="Yuzi logo"
-              height="30"
-              width="30"
-              className="mr-2 rounded-sm"
-            ></Image>
-            <p>Timeless Healing, Modern Comforts</p>
+            <p>Yuzi</p>
           </Link>
           <div>
             {session ? (

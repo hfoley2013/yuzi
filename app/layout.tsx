@@ -7,17 +7,17 @@ import Footer from "@/components/layout/footer";
 import { Suspense } from "react";
 
 export const metadata = {
-  title: "Precedent - Building blocks for your Next.js project",
+  title: "Yuzi - Timeless Healing, Modern Comforts",
   description:
-    "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
+    "Yuzi is a haven designed specifically for moms during one of the most challenging periods of their lives—the postnatal journey. Our retreat offers a nurturing and supportive environment where mothers can find solace, rejuvenation, and connection as they navigate the joys and demands of early motherhood.",
   twitter: {
     card: "summary_large_image",
-    title: "Precedent - Building blocks for your Next.js project",
+    title: "Yuzi - Timeless Healing, Modern Comforts",
     description:
-      "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
-    creator: "@steventey",
+      "Yuzi is a haven designed specifically for moms during one of the most challenging periods of their lives—the postnatal journey. Our retreat offers a nurturing and supportive environment where mothers can find solace, rejuvenation, and connection as they navigate the joys and demands of early motherhood.",
+    creator: "Stephiney Y. Foley",
   },
-  metadataBase: new URL("https://precedent.dev"),
+  metadataBase: new URL("https://www.yuzicare.com"),
   themeColor: "#FFF",
 };
 

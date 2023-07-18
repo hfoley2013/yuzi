@@ -31,7 +31,7 @@ export default function NavBar({ session }: { session: Session | null }) {
               className="mr-2 rounded-sm"
             ></Image>
             <Image
-              src="/yuzi_logo_green_large.png"
+              src="/yuzi_lowercase_logo_green_large.png"
               alt="Yuzi logo"
               height="30"
               width="30"
